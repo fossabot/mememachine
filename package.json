@@ -1,0 +1,10 @@
+{
+  "name": "mememachine",
+  "version": "0.0.1",
+  "description": "Set of tools for improving your meme performance",
+  "main": "index.js",
+  "repository": "https://github.com/emilioidk/memenerd.git",
+  "author": "Emilio Martin Lundgaard Lopez <emilio@lundgaardlopez.com>",
+  "license": "MIT",
+  "private": false
+}

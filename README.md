@@ -1,4 +1,6 @@
 # MemeMachine
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilioidk%2Fmememachine.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilioidk%2Fmememachine?ref=badge_shield)
+
 
 Set of tools to impress your coworkers, your friends, and your mom with your meme game.
 
@@ -29,3 +31,7 @@ To be filled in
 ## Release Notes
 
 Checkout the [cangelog](CHANGELOG.md) for more details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Femilioidk%2Fmememachine.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Femilioidk%2Fmememachine?ref=badge_large)
